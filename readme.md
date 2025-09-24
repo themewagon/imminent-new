@@ -1,4 +1,4 @@
-# Luther – Free One-Page HTML5 Portfolio Website Template
+# Imminent – Free One-Page Responsive Coming Soon Template
 
 #### Preview
 
@@ -25,5 +25,6 @@ Design and code are completely written by StyleShout's design and development te
  - Design and Code is Copyright &copy; [StyleShout](https://styleshout.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
+
 
 
